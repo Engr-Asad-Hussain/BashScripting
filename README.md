@@ -27,7 +27,7 @@ The output will be:
 Bash scripts can be used for various purposes, such as executing a shell command, running multiple commands together, customizing administrative tasks, performing task automation etc. So knowledge of bash programming basics is important for every Linux user.
 
 
-### What is Crontab?
+## What is Crontab?
 1. Crontab command is mainly used to automate our daily schedule tasks.
 2. For instance we can automate process like data backup, schedule updates or synchronization of files and many more.
 3. Cron is a daemon to run Schedule task.
